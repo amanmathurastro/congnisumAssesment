@@ -1,0 +1,12 @@
+@import "../../common/color.scss";
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $primary-color;
+}
+
+.header-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
